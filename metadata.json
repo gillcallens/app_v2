@@ -1,0 +1,5 @@
+{
+  "name": "Huisarts inventaris app",
+  "description": "Een slim inventarisatiesysteem voor huisartsenpraktijken met AI-gestuurd voorraadbeheer en realtime waarschuwingen voor lage voorraad.",
+  "requestFramePermissions": []
+}
